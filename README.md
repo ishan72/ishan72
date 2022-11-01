@@ -1,6 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Ishan.</h1>
 <h5 align="center">I'm a graduate student in the College of Engineering & Computer Science(CECS) at the University of Michigan-Dearborn, and a passionate software developer.  </h5>
-
+<p>Connect with me:</p>
+<p>
+  <a href="https://www.linkedin.com/in/ishan-dahal-9640a8171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-dahal-9640a8171/" height="30" width="40" /></a>
+  <a href="https://github.com/ishan72/" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_415633.png" alt="https://www.github.com/ishan72/" height="30" width="40" /></a>
+</p>
 
 <!--
 <img align="right" width="500" height="250" src="https://media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e47phfq7h61jqr9npono3l072h1q1dhi58t2yli9ei6&rid=giphy.gif&ct=g">
