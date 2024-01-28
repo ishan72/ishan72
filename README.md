@@ -3,7 +3,7 @@
 
 <img align="right" width="400" height="200" src="https://media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e47phfq7h61jqr9npono3l072h1q1dhi58t2yli9ei6&rid=giphy.gif&ct=g">
 <p>- 🔭 I’m currently working on <strong>Personal Projects</strong></p>
-<p>- 🌱 I’m currently learning <strong>C++</strong></p>
+<p>- 🌱 I’m currently learning <strong>Maching Learning</strong></p>
 <p>- 👯 I’m looking to collaborate on <strong>React project</strong></p>
 <p>- 💬 Ask me about <strong>Software Development</strong></p>
 <h3 align="left">Languages and Tools:</h3>
